@@ -1,0 +1,7 @@
+
+*.db
+*.ipch
+*.suo
+
+TutorialCpp/Debug
+TutorialCpp/.vs
