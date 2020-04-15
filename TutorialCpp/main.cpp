@@ -1,7 +1,8 @@
-#include <iostream>
+#include "wolf_array_sample.h"
 
 int main(int argc, char* argv[])
 {
-	std::cout << "Hello World" << std::endl;
+	array_sample::Sample();
+
 	return 0;
 }
