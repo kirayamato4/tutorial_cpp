@@ -24,9 +24,15 @@
     <ClCompile Include="wolf_array_sample.cpp">
       <Filter>Container</Filter>
     </ClCompile>
+    <ClCompile Include="wolf_vector_sample.cpp">
+      <Filter>Container</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="wolf_array_sample.h">
+      <Filter>Container</Filter>
+    </ClInclude>
+    <ClInclude Include="wolf_vector_sample.h">
       <Filter>Container</Filter>
     </ClInclude>
   </ItemGroup>

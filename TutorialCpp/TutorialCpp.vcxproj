@@ -140,9 +140,11 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="wolf_array_sample.cpp" />
+    <ClCompile Include="wolf_vector_sample.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="wolf_array_sample.h" />
+    <ClInclude Include="wolf_vector_sample.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
